@@ -1,4 +1,4 @@
-# Robotic hand
+# Butter Robot
 
 ![alt-text](robotic_hand.gif)
 
